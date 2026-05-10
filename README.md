@@ -1,10 +1,10 @@
-Why are so many old buildings in LA left empty when we have such a bad housing shortage?
-I started this project because I wanted to see if we could actually turn these neglected historic
-buildings into useful homes instead of just letting them sit there.
+While keeping up with local news, I noticed a recurring debate: "Does raising the minimum wage actually hurt employment?" Many economists argue that it reduces hiring, while others suggest it boosts local spending. As an aspiring Economics major, I wanted to move beyond textbooks and test this theory using real-world data from my own backyard—Los Angeles.
 
+Project Goal:
+The primary objective of this project is to answer: Is there a statistically significant negative correlation between minimum wage hikes and employment rates in the Los Angeles area?
 
-(4/16-  start to write code)
-#error about import library-4-18
-#error because of categorized into Syntax Errors
-#start to make a graph code(4/2)
-trying to use other type of import(4/23)
+Data=>
+Location:LA(CA)
+Time:2010-2026
+Language:Python
+data sources: U.S. Bureau of Labor Statistics for unemployment and employment to population ratio
