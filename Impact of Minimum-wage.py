@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load LA economic dataset (compiled from FRED/BLS)
+# Period: 2010 - 2024
 years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
 min_wages = [8.0, 8.0, 8.0, 8.0, 9.0, 9.0, 10.5, 12.0, 13.25, 14.25, 15.0, 15.0, 16.04, 16.78, 17.28]
 unemp_rates = [12.5, 12.2, 10.9, 8.9, 8.2, 5.9, 5.2, 4.8, 4.6, 4.4, 12.8, 8.9, 4.9, 5.1, 5.4]
