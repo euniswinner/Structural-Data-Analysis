@@ -4,7 +4,7 @@ Project Goal:
 The primary objective of this project is to answer: Is there a statistically significant negative correlation between minimum wage hikes and employment rates in the Los Angeles area?
 
 Data=>
-Location:LA(CA)
+Location:LA(California)
 Time:2010-2026
 Language:Python
 data sources: U.S. Bureau of Labor Statistics for unemployment and employment to population ratio
